@@ -5,5 +5,6 @@ Person 2: Add the name of an actor *between* the already provided lines
 
 
 JJ Abrams
+Tarantino
 Tom Hanks
 Emily Blunt
