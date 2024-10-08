@@ -2,4 +2,5 @@
 Task: Add a vehicle in a new line *between* the already provided vehicles
 
 Truck
+Car
 Motorcycle
