@@ -6,4 +6,5 @@ Person 2: Add the title of a series *between* the already provided titles
 
 Monsters, Inc.
 One Piece
+Superman
 Stargate SG-1
